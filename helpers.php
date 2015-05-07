@@ -24,6 +24,32 @@ if (! function_exists('base_url')) {
     }
 }
 
+if (! function_exists('set_env')) {
+    /*!
+     * Detect and set global project environment
+     * 
+     * @param array  $setup    Environment setup
+     *                         array(
+     *                           'env_name' => string|array of hostname
+     *                         )
+     * @param string $constant Constant name. Defaults to `ENVI`
+     */
+    function set_env ($setup = array(), $constant = 'ENVI') {
+        if (is_array($setup) and !empty($setup)) {
+            $cons = !defined($constant) ? $constant : trigger_error("Constant already exists.");
+            $host = gethostname();
+
+            if ($host) {
+                foreach ($setup as $env => $hosts) {
+                    if ((is_string($hosts) and $hosts === $host) or (is_array($hosts) and in_array($host, $hosts))) {
+                        return !defined($constant) ? define($constant, $env) : $cons;
+                    }
+                } return !defined($constant) ? define($constant, null) : $cons;
+            } return trigger_error("Function is not supported in this server.");
+        } return trigger_error("Setup data is empty or not an array.");
+    }
+}
+
 if (! function_exists('io')) {
     /**
      * Outputs any number of passed values in <pre> tag
