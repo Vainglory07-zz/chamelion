@@ -1,8 +1,7 @@
 <?php
-/**
+/*!
  * @author jdia07
  * @copyright (c) 2015, Vainglory07 02.07
- * 
  */
 
 
