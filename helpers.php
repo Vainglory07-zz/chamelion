@@ -5,7 +5,7 @@
  */
 
 
-if (! function_exists('base_url')) {
+if (! function_exists('baseurl')) {
     /**
      * Gets the base url of the application.
      * With HTTP injection filter.
