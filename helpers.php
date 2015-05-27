@@ -144,6 +144,59 @@ if (! function_exists('is_json')) {
     }
 }
 
+if (! function_exists('suggest_username')) {
+	/*!
+	 * Username auto-suggestion
+	 *
+	 * 
+	 * @param  string  $firstname
+	 * @param  string  $lastname
+	 * @param  integer $max_firstname_char Max no. of characters to use in firstname. Default 0
+	 * @param  integer $max_lastname_char  Max no. of characters to use in lastname. Default 3
+	 * 
+	 * @return array List of possible usernames
+	 */
+	function suggest_username($firstname = '', $lastname = '', $max_firstname_char = 0, $max_lastname_char = 3) {
+		function lastname_min ($lastname = '', $max_lastname_char = 0) {
+			$vowels = array('a', 'e', 'i', 'o', 'u');
+
+			$trim = str_replace(' ', '', $lastname);
+			$char = str_split($trim);
+			$cnts = count($char);
+
+			if ($cnts <= $max_lastname_char) {
+				return "{$lastname}";
+			} else {
+				for ($i = $max_lastname_char - 2; $i < $cnts; $i++) {
+					if (isset($char[$i]) and in_array($char[$i], $vowels)) {
+						$max_lastname_char = $i + 2;
+						break;
+					}
+				}
+
+				$result = substr($trim, 0, $max_lastname_char);
+				return "{$result}";
+			}
+		}
+
+		if ($firstname and $lastname) {
+			$result = [];
+			
+			$arr_firstname = explode(' ', $firstname);
+			$str_lastname = lastname_min($lastname, $max_lastname_char);
+			
+			foreach ($arr_firstname as $names) {
+				$str_firstname = ($max_firstname_char > 0) ? substr($names, 0, 1) : $names;
+				$str_separator = ($max_firstname_char > 0) ? '' : '.';
+
+				$result[] = "{$str_firstname}{$str_separator}{$str_lastname}";
+			}
+
+			return $result;
+		} return trigger_error('Incomplete parameters.');
+	}
+}
+
 
 
 /* *******************************************************
