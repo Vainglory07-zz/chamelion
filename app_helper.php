@@ -5,6 +5,13 @@
  */
 
 
+
+/* *******************************************************
+ *
+ * Config / Misc
+ * 
+ * *******************************************************/
+
 if (! function_exists('baseurl')) {
     /**
      * Gets the base url of the application.
@@ -67,6 +74,7 @@ if (! function_exists('io')) {
 
 
 /* *******************************************************
+ *
  * String
  * 
  * *******************************************************/
@@ -200,9 +208,11 @@ if (! function_exists('suggest_username')) {
 
 
 /* *******************************************************
+ *
  * Number
  * 
  * *******************************************************/
+
 if (! function_exists('minify_number')) {
     /**
      * Converts any given number into shorthand value.
@@ -280,9 +290,11 @@ if (! function_exists('get_probability')) {
 
 
 /* *******************************************************
+ *
  * Date and Time
  * 
  * *******************************************************/
+
 if (! function_exists('list_timezone')) {
     /**
      * Returns an array|list of valid PHP supported timezones
