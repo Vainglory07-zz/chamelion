@@ -53,28 +53,28 @@ ANIME
 -----------------
 DISCOGRAPHY
 -----------------
-the killers
-	- Hot Fuss (2004)
-	- Sam's Town (2006)
-	- Day & Age (2008)
-	- Battle Born (2012)
-mayday parade
-	- A Lesson in Romantics (2007)
-	- Anywhere but Here (2009)
-	- Mayday Parade (2011)
-	- Monsters in the Closet (2013)
-	- Black Lines (2015)
-fall out boy
-	- Take This to Your Grave (2003)
-	- From Under the Cork Tree (2005)
-	- Infinity on High (2007)
-	- Folie à Deux (2008)
-	- Save Rock and Roll (2013)
-	- American Beauty/American Psycho (2015)
-spongecola
-	- Palabas (2004)
-	- Transit (2006)
-	- Sponge Cola (2008)
-	- Araw Oras Tagpuan (2011)
-	- Ultrablessed (2014)
-	- Ultrablessed Thank You Edition (2015)
+* the killers
+	* Hot Fuss (2004)
+	* Sam's Town (2006)
+	* Day & Age (2008)
+	* Battle Born (2012)
+* mayday parade
+	* A Lesson in Romantics (2007)
+	* Anywhere but Here (2009)
+	* Mayday Parade (2011)
+	* Monsters in the Closet (2013)
+	* Black Lines (2015)
+* fall out boy
+	* Take This to Your Grave (2003)
+	* From Under the Cork Tree (2005)
+	* Infinity on High (2007)
+	* Folie à Deux (2008)
+	* Save Rock and Roll (2013)
+	* American Beauty/American Psycho (2015)
+* spongecola
+	* Palabas (2004)
+	* Transit (2006)
+	* Sponge Cola (2008)
+	* Araw Oras Tagpuan (2011)
+	* Ultrablessed (2014)
+	* Ultrablessed Thank You Edition (2015)
