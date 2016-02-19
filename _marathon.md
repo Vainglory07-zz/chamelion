@@ -12,8 +12,6 @@ MOVIES
 * predestination
 * the revenant
 * in the heart of the sea
-
-
 * black hawk down
 * the crossing
 * lost battalion
@@ -21,8 +19,6 @@ MOVIES
 * band of brothers 1-10
 * flags of our father
 * letters from iwo jima
-
-
 * baahubali
 * three idiots
 * PK
