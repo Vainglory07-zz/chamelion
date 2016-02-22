@@ -17,7 +17,6 @@ MOVIES
 * lost battalion
 * the pacific
 * band of brothers 1-10
-* flags of our father
 * letters from iwo jima
 * baahubali
 * three idiots
@@ -49,11 +48,6 @@ ANIME
 -----------------
 DISCOGRAPHY
 -----------------
-* the killers
-	* Hot Fuss (2004)
-	* Sam's Town (2006)
-	* Day & Age (2008)
-	* Battle Born (2012)
 * mayday parade
 	* A Lesson in Romantics (2007)
 	* Anywhere but Here (2009)
