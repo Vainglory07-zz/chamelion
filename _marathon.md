@@ -3,13 +3,11 @@ MOVIES
 -----------------
 * silverlinings playbook
 * midnight meat train
-* the notebook
 * the grey
 * the law abiding citizen
 * saw 1-7
 * the prototype
 * straight outta compton
-* predestination
 * the revenant
 * in the heart of the sea
 * black hawk down
@@ -17,7 +15,6 @@ MOVIES
 * lost battalion
 * the pacific
 * band of brothers 1-10
-* letters from iwo jima
 * baahubali
 * three idiots
 * PK
