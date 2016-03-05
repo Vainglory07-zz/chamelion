@@ -20,6 +20,29 @@ MOVIES
 * PK
 * the war of arrows
 
+* predestination
+* triangle
+* interstellar
+* inception
+* shutter island
+* memento
+* source code
+* identity
+* donnie darko
+* enemy
+* exam
+* the ghame
+* fight club
+* eternal sunshine of the spotless mind
+* the butterfly effect
+* the prestige
+* the usual suspects
+* the man from earth
+* now you see me
+* k-pax
+* coherence
+* se7en
+
   
 -----------------
 SUGGESTED MOVIES
