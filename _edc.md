@@ -4,7 +4,7 @@ http://www.tacticalasia.com/crkt-pazoda-2/
 
 http://www.tacticalasia.com/gi-type-p-51-can-opener/
 
-
+<br />
 
 http://dynaquestpc.com/product/adata-pv100-4200mah-power-bank/
 
@@ -12,7 +12,7 @@ http://www.tacticalasia.com/uzi-defender-aircraft-aluminum-tactical-pen-2-with-g
 
 http://www.tacticalasia.com/nitecore-mt1a-180-lumen-flashlight/
 
-
+<br />
 
 http://www.tacticalasia.com/light-my-fire-spork-titanium/
 
