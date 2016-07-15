@@ -6,6 +6,8 @@ http://www.tacticalasia.com/gi-type-p-51-can-opener/
 
 <br />
 
+http://www.tacticalasia.com/maxpedition-spartan-wallet/
+
 http://dynaquestpc.com/product/adata-pv100-4200mah-power-bank/
 
 http://www.tacticalasia.com/uzi-defender-aircraft-aluminum-tactical-pen-2-with-glass-breaker/
