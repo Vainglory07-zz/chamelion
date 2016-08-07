@@ -4,13 +4,17 @@ http://www.tacticalasia.com/crkt-pazoda-2/
 
 http://www.tacticalasia.com/gi-type-p-51-can-opener/
 
+http://dynaquestpc.com/product/adata-pv100-4200mah-power-bank/
+
+or
+
+http://www.mi.com/ph/pb5000/
+
 <br />
 
 http://www.tacticalasia.com/maxpedition-spartan-wallet/
 
 http://www.tacticalasia.com/gerber-gdc-hook-knife/
-
-http://dynaquestpc.com/product/adata-pv100-4200mah-power-bank/
 
 http://www.tacticalasia.com/uzi-defender-aircraft-aluminum-tactical-pen-2-with-glass-breaker/
 
