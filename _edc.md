@@ -18,6 +18,8 @@ http://www.tacticalasia.com/nitecore-mt1a-180-lumen-flashlight/
 
 http://www.tacticalasia.com/nite-ize-s-biner-keyrack-steel/
 
+http://www.tacticalasia.com/nitecore-sens-aa-120-lumen-flashlight/
+
 <br />
 
 http://www.tacticalasia.com/light-my-fire-spork-titanium/
