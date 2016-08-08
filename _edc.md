@@ -16,6 +16,8 @@ http://www.tacticalasia.com/uzi-defender-aircraft-aluminum-tactical-pen-2-with-g
 
 http://www.tacticalasia.com/nitecore-mt1a-180-lumen-flashlight/
 
+http://www.tacticalasia.com/nite-ize-s-biner-keyrack-steel/
+
 <br />
 
 http://www.tacticalasia.com/light-my-fire-spork-titanium/
