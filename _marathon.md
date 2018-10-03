@@ -3,18 +3,15 @@ MOVIES
 -----------------
 * silverlinings playbook
 * midnight meat train
-* the grey
 * the law abiding citizen
 * saw 1-7
 * the prototype
 * straight outta compton
 * the revenant
-* in the heart of the sea
 * black hawk down
 * the crossing
 * lost battalion
 * the pacific
-* band of brothers 1-10
 * baahubali
 * three idiots
 * PK
@@ -26,7 +23,6 @@ MOVIES
 * enemy
 * exam
 * the game
-* fight club
 * eternal sunshine of the spotless mind
 * the butterfly effect
 * the prestige
