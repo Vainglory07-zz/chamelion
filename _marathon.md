@@ -1,24 +1,24 @@
 -----------------
 MOVIES
 -----------------
-* silverlinings playbook
+* ~~silverlinings playbook~~
 * midnight meat train
-* the law abiding citizen
-* saw 1-7
-* the prototype
+* ~~the law abiding citizen~~
+* ~~saw 1-7~~
+* ~~the prototype~~
 * straight outta compton
 * the revenant
-* black hawk down
+* ~~black hawk down~~
 * the crossing
 * lost battalion
-* the pacific
-* baahubali
-* three idiots
-* PK
+* ~~the pacific~~
+* ~~baahubali~~
+* ~~three idiots~~
+* ~~PK~~
 * the war of arrows
-* interstellar
-* source code
-* identity
+* ~~interstellar~~
+* ~~source code~~
+* ~~identity~~
 * donnie darko
 * enemy
 * exam
@@ -26,16 +26,16 @@ MOVIES
 * eternal sunshine of the spotless mind
 * the butterfly effect
 * the prestige
-* the usual suspects
-* the man from earth
+* ~~the usual suspects~~
+* ~~the man from earth~~
 * k-pax
-* coherence
+* ~~coherence~~
 
   
 -----------------
 SUGGESTED MOVIES
 -----------------
-* Windtalkers
+* ~~Windtalkers~~
 * The Last Drop
 * The Big Red One
 * Bridge at Remagen
